@@ -1,4 +1,4 @@
-# Developer/Coded : I†z Reapers#6666 / I†z Reapers#9999
+# Developer/Coded : Clueless#9999 / Clueless#9999
 # All Rights Reserved WickedNitro // Nitro Generator©
 # Also Dont Be A Skid (atleast credit me for the code)
 
@@ -15,7 +15,7 @@
 
 
 #     Support 🔍
-• In case of any bug add me : I†z Reapers#6666
+• In case of any bug add me : Clueless#9999
 
  /$$      /$$ /$$           /$$                       /$$
 | $$  /$ | $$|__/          | $$                      | $$
